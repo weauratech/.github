@@ -40,8 +40,8 @@ It helps agents load, search, and persist project knowledge across sessions usin
 ## Contact
 
 <p>
-  <a href="https://weaura.tech">weaura.tech</a> ·
-  <a href="https://instagram.com/weaura.tech">@weaura.tech</a> ·
-  <a href="mailto:contato@weaura.tech">contato@weaura.tech</a> ·
-  <a href="https://github.com/weauratech">@weauratech</a>
+  🌐 Website: <a href="https://weaura.tech">weaura.tech</a><br />
+  📸 Instagram: <a href="https://instagram.com/weaura.tech">@weaura.tech</a><br />
+  ✉️ Email: <a href="mailto:contato@weaura.tech">contato@weaura.tech</a><br />
+  🐙 GitHub: <a href="https://github.com/weauratech">@weauratech</a>
 </p>
