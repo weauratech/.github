@@ -66,5 +66,6 @@ We build and operate software products with a focus on automation, AI-assisted w
 ## Contact
 
 - Website: [weaura.tech](https://weaura.tech)
+- Instagram: [@weaura.tech](https://instagram.com/weaura.tech)
 - Email: [contato@weaura.tech](mailto:contato@weaura.tech)
 - GitHub: [@weauratech](https://github.com/weauratech)
