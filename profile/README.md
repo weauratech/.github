@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://em-content.zobj.net/source/apple/391/sparkles_2728.png" width="96" alt="Sparkles emoji" />
+  <img src="assets/weaura-tech-logo.png" width="120" alt="WeAura Tech logo" />
 </p>
 
 <h1 align="center">WeAura Tech</h1>
