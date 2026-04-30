@@ -42,6 +42,7 @@ It helps agents load, search, and persist project knowledge across sessions usin
 <p>
   🌐 Website: <a href="https://weaura.tech">weaura.tech</a><br />
   📸 Instagram: <a href="https://instagram.com/weaura.tech">@weaura.tech</a><br />
+  💼 LinkedIn: <a href="https://linkedin.com/company/we-aura-tech">WeAura Tech</a><br />
   ✉️ Email: <a href="mailto:contato@weaura.tech">contato@weaura.tech</a><br />
   🐙 GitHub: <a href="https://github.com/weauratech">@weauratech</a>
 </p>
